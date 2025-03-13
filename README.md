@@ -17,7 +17,7 @@
   - Questions 11-20: +2 bonus points.
   - Questions 21-30: No bonus points.
 - **Interactive Interface / واجهة تفاعلية:**  
-  Features animated transitions, neon effects, gradient backgrounds, particle animations, and a starry backdrop for an engaging visual experience.
+  Features animated transitions, neon effects, gradient backgrounds, and particle animations for an engaging visual experience.
 - **Hints Feature / ميزة التلميحات:**  
   Option to add +5 questions as hints to help players.
 - **Responsive Design / تصميم متجاوب:**  
@@ -45,6 +45,4 @@
 - **HTML5:** Structure of the game.
 - **CSS3:** Styling, animations, and visual effects.
 - **JavaScript:** Game logic and interactivity.
-
-## Installation and Usage / التثبيت والاستخدام
 
