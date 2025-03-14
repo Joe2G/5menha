@@ -1,4 +1,4 @@
-# خمنها (5menha)
+## (5menha) / خـمِّـنها
 
 ## Overview / نظرة عامة
 "خمنها" هي لعبة طعام تفاعلية مصرية تعتمد على تحدي اللاعبين لتخمين طبق معين خلال 30 سؤال بس. The game challenges players to quickly and accurately identify a dish selected at random from themed lists, based on the chosen difficulty level.
