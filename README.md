@@ -23,7 +23,7 @@
 - **Responsive Design / تصميم متجاوب:**  
   Optimized for different screen sizes and devices.
 
-## طريقة اللعب / How to Play
+## How to play / طريقة اللعب
 1. **Difficulty Selection / اختيار الصعوبة**  
    - Easy (1 base point) | Medium (2) | Hard (4)
 
