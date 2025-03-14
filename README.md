@@ -23,23 +23,25 @@
 - **Responsive Design / تصميم متجاوب:**  
   Optimized for different screen sizes and devices.
 
-## How to Play / طريقة اللعب
-1. **Main Menu / القائمة الرئيسية:**  
-   Start the game by selecting "بدء اللعبة" (Start Game) or view the game rules by clicking "قواعد اللعبة" (Game Rules).
-2. **Player Setup / إعداد اللاعبين:**  
-   Enter the number of players (between 2 and 15) and input each player's name.
-3. **Gameplay / اللعب:**  
-   - The current player selects a difficulty level.  
-   - A dish is randomly selected and displayed.  
-   - The player has up to 30 questions to guess the dish.
-   - If the player thinks they know the dish, they press "✅ عرفتها!" (I guessed it!), earning points based on the difficulty and bonus for early correct answers.
-   - If the player is unsure or runs out of attempts (reaching question 30) without guessing, the round ends with 0 points.
-4. **Round End / نهاية الجولة:**  
-   After each turn, the round results are shown with the player's score.
-5. **Leaderboard / لوحة النتائج:**  
-   At the end of all rounds, a final scoreboard displays the ranking of players based on their scores.
-6. **Continue Playing / الاستمرار في اللعب:**  
-   Players can choose to continue playing without resetting the scores, starting a new round.
+## طريقة اللعب / How to Play
+1. **Difficulty Selection / اختيار الصعوبة**  
+   - Easy (1 base point) | Medium (2) | Hard (4)
+
+2. **Gameplay / اللعب**  
+   - You get MAX 30 questions per round
+   - Use "+5 تلميح" to instantly add 5 questions
+   - Early correct guess earns:
+     - Q1-5: +10 bonus
+     - Q6-10: +5 bonus
+     - Q11-20: +2 bonus
+     - Q21-30: No bonus
+
+3. **Scoring / النقاط**  
+   Total = Base Points + Bonus Tier
+
+4. **End Conditions / نهاية الجولة**  
+   - Wrong answer/Q30 = 0 points
+   - Leaderboard after all players finish
 
 ## Technologies Used / التقنيات المستخدمة
 - **HTML5:** Structure of the game.
